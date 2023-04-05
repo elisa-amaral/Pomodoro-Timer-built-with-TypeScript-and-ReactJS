@@ -1,46 +1,37 @@
-# Getting Started with Create React App
+# Pomodoro App built with TypeScript and ReactJS
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project is a Pomodoro app built with TypeScript and React.js
 
-## Available Scripts
+The Pomodoro Technique is a time management method developed by Francesco Cirillo in the late 1980s. The original technique has six steps:
+1. Decide on the task to be done.
+2. Set the Pomodoro timer (25 minutes).
+3. Work on the task.
+4. End work when the timer rings and take a short break (5 minutes).
+5. If you have finished fewer than three pomodoros, go back to Step 2 and repeat until you go through all three pomodoros, completing a total of four pomodoros (four 25 minutes timers + three 5 minutes short breaks).
+6. After the fourth pomodoro is done, take a long break (15 minutes). Once the long break is finished, return to step 2 (start a new cycle).
 
-In the project directory, you can run:
+All sound effects used are copyright-free.
 
-### `npm start`
+## Project Website
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+**coming soon**
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+## Project Demonstration Video
 
-### `npm test`
+https://drive.google.com/file/d/1qRCe54bUAX4wAQ3hDSkjK3KT1gjS7G6d/view?usp=sharing
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Screenshots
 
-### `npm run build`
+![Screenshot 1: resting](/public/Screenshot_1.jpg)
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Screenshot 2: working](/public/Screenshot_2.jpg)
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+## Technology Stack
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
++ TypeScript
++ React.js
++ ESlint
++ Prettier
++ HTML
++ CSS
++ JavaScript
