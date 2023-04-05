@@ -1,4 +1,4 @@
-# Pomodoro App built with TypeScript and ReactJS
+# Pomodoro Timer built with TypeScript and ReactJS
 
 This project is a Pomodoro app built with TypeScript and React.js
 
