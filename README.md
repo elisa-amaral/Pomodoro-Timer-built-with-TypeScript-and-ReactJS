@@ -20,6 +20,8 @@ https://pomodoro-with-typescript-and-react.netlify.app/
 
 https://drive.google.com/file/d/1qRCe54bUAX4wAQ3hDSkjK3KT1gjS7G6d/view?usp=sharing
 
+For the demonstration video, the pomodoro timer was set to 25 seconds, the short break was set to 5 seconds, the long break was set to 15 seconds and the video was sped up a few times.
+
 ## Screenshot 1: resting
 
 ![Screenshot](/public/Screenshot_1.jpg)
