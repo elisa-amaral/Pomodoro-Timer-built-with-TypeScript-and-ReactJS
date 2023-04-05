@@ -14,17 +14,19 @@ All sound effects used are copyright-free.
 
 ## Project Website
 
-**coming soon**
+https://pomodoro-with-typescript-and-react.netlify.app/
 
 ## Project Demonstration Video
 
 https://drive.google.com/file/d/1qRCe54bUAX4wAQ3hDSkjK3KT1gjS7G6d/view?usp=sharing
 
-## Screenshots
+## Screenshot 1: resting
 
-![Screenshot 1: resting](/public/Screenshot_1.jpg)
+![Screenshot](/public/Screenshot_1.jpg)
 
-![Screenshot 2: working](/public/Screenshot_2.jpg)
+## Screenshot 2: working
+
+![Screenshot](/public/Screenshot_2.jpg)
 
 ## Technology Stack
 
