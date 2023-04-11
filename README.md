@@ -8,7 +8,7 @@ The Pomodoro Technique is a time management method developed by Francesco Cirill
 3. Work on the task.
 4. End work when the timer rings and take a short break (5 minutes).
 5. If you have finished fewer than three pomodoros, go back to Step 2 and repeat until you go through all three pomodoros, completing a total of four pomodoros (four 25 minutes timers + three 5 minutes short breaks).
-6. After the fourth pomodoro is done, take a long break (15 minutes). Once the long break is finished, return to step 2 (start a new cycle).
+6. After three pomodoros are done, take the fourth pomodoro then take a long break (15 minutes). Four pomodoros completed one cycle. Once the long break is finished, return to step 2 (start a new cycle).
 
 All sound effects used are copyright-free.
 
