@@ -38,4 +38,3 @@ For the demonstration video, the pomodoro timer was set to 25 seconds, the short
 + Prettier
 + HTML
 + CSS
-+ JavaScript
